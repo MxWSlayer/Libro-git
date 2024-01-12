@@ -1,0 +1,4 @@
+ECHO est  activado.
+"mensaje prueba" 
+Cap¡tulo 1: Introducci¢n a Git 
+Cap¡tulo 1: Introducci¢n a Git 
